@@ -1,6 +1,6 @@
 # NLP
 
-Spam Detector
+# Spam Detector:
 
 The dataset is from uci machine learning repository.
 
