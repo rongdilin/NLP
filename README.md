@@ -16,7 +16,11 @@ dataset: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
 
 NLTK
 
+Lemmatizer
+
 Logstic Regression
+
+sentiment = how positive or negative some text is
 
 
 
