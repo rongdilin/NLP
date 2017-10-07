@@ -10,6 +10,12 @@ Naive Bayes
 
 accuracy 87%
 
-binary classification(1: is spam, 0: is spam)
+binary classifier
+
+# Sentiment Analyzer
+dataset: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
+NLTK
+Logstic Regression
+
 
 
