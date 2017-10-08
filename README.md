@@ -38,3 +38,7 @@ Trigram
 
 ##
 The Brown Corpus
+
+
+CBOW = use context to predict middle word
+Skip-gram = use middle word to predict context
