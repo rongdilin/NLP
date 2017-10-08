@@ -35,3 +35,6 @@ Results in a new article with different terms, but same meaning.]
 dataset: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
 
 Trigram
+
+##
+The Brown Corpus
