@@ -1,4 +1,4 @@
-# NLP
+# NLP(Natural Language Processing)
 
 ## Spam Detector:
 dataset: uci machine learning repository.
