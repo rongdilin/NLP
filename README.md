@@ -58,4 +58,6 @@ rating = neural_work.predict(X = [user_attributes + product_attributes])
 
 Matrix Factorization
 
-GLoVe
+GLoVe: term-term matrix
+
+Numpy Gradient Descent, Theano Gradient Descent, Alternating Least Squares
