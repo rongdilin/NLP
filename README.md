@@ -57,3 +57,5 @@ frame it as a typical prediction ML problem:
 rating = neural_work.predict(X = [user_attributes + product_attributes])
 
 Matrix Factorization
+
+GLoVe
