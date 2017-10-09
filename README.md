@@ -61,3 +61,18 @@ Matrix Factorization
 GLoVe: term-term matrix
 
 Numpy Gradient Descent, Theano Gradient Descent, Alternating Least Squares
+
+## Parts-of-Speech Tagging
+POS tag is a category you can assign a word, according toits syntactic function.
+
+dataset: http://www.cnts.ua.ac.be/conll2000/chunking/
+
+Logistic regression
+
+Decision Tree 
+
+Baseline F1 score: 0.895, 0.862
+
+RNN F1 score: 0.803, 0.782
+
+HMM F1 score: 0.923, 0.862
