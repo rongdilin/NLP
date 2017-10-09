@@ -48,3 +48,6 @@ CBOW = use context to predict middle word
 Skip-gram = use middle word to predict context
 
 two version: Numpy & Theano
+
+## Recommender System
+[Pretend you are Amazon - match users to products & Netflix - match users to movies.]
