@@ -36,9 +36,15 @@ dataset: http://www.cs.jhu.edu/~mdredze/datasets/sentiment/index2.html
 
 Trigram
 
-##
-The Brown Corpus
+## Word Analogy
+[find relation among words by Euclidean distance and cosine distance]
 
+dataset: the brown corpus & wikipedia data
+
+word2vec
 
 CBOW = use context to predict middle word
+
 Skip-gram = use middle word to predict context
+
+two version: Numpy & Theano
