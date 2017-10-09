@@ -76,3 +76,9 @@ Baseline F1 score: 0.895, 0.862
 RNN F1 score: 0.803, 0.782
 
 HMM F1 score: 0.923, 0.862
+
+## Sentiment Analysis
+
+dataset: http://nlp.stanford.edu/sentiment/
+
+RNN
